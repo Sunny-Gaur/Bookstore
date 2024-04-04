@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "book1",
+      "title": "The Adventure Begins",
+      "price": 0,
+      "categories": "Adventure",
+      "images": "https://img.freepik.com/free-photo/stack-various-books-table_1252-667.jpg?w=826&t=st=1711894219~exp=1711894819~hmac=6edaa4eabda0bc9db58d58ba821fea9ddbdfe3e6435fba6bb705459ff360e167",
+      "related": ["book2", "book5"]
+    },
+    {
+      "id": 2,
+      "name": "book2",
+      "title": "Mystery in the Manor",
+      "price": 0,
+      "categories": "Mystery",
+      "images": "https://img.freepik.com/free-photo/stack-various-books-table_1252-667.jpg?w=826&t=st=1711894219~exp=1711894819~hmac=6edaa4eabda0bc9db58d58ba821fea9ddbdfe3e6435fba6bb705459ff360e167",
+      "related": ["book1", "book3"]
+    },
+    {
+      "id": 3,
+      "name": "book3",
+      "title": "The Secret Garden",
+      "price": 17.99,
+      "categories": "Fantasy",
+      "images":"https://img.freepik.com/premium-photo/interior-library-with-book-shelves_662214-215927.jpg?size=626&ext=jpg&ga=GA1.1.1755453902.1677832073&semt=ais",
+      "related": ["book2", "book4"]
+    },
+    {
+      "id": 4,
+      "name": "book4",
+      "title": "Through the Looking Glass",
+      "price": 21.99,
+      "categories": "Fantasy",
+      "images": "https://img.freepik.com/free-photo/female-choosing-book-from-bookshelf-library_23-2148204317.jpg?size=626&ext=jpg&ga=GA1.1.1755453902.1677832073&semt=ais",
+      "related": ["book3", "book5"]
+    },
+    {
+      "id": 5,
+      "name": "book5",
+      "title": "The Lost Treasure",
+      "price": 0,
+      "categories": "Adventure", 
+      "images": "https://img.freepik.com/free-photo/stack-various-books-table_1252-667.jpg?w=826&t=st=1711894219~exp=1711894819~hmac=6edaa4eabda0bc9db58d58ba821fea9ddbdfe3e6435fba6bb705459ff360e167",
+      "related": ["book1", "book4"]
+    },
+    {
+      "id": 6,
+      "name": "book6",
+      "title": "A Tale of Two Cities",
+      "price": 15.99,
+      "categories":"Historical Fiction",
+      "images": "https://img.freepik.com/free-photo/old-books-arranged-shelf_53876-147882.jpg?size=626&ext=jpg&ga=GA1.1.1755453902.1677832073&semt=ais",
+      "related": ["book7", "book9"]
+    },
+    {
+      "id": 7,
+      "name": "book7",
+      "title": "To Kill a Mockingbird",
+      "price": 18.99,
+      "categories":  "Drama",
+      "images":"https://img.freepik.com/free-photo/old-books-arranged-shelf_53876-147882.jpg?size=626&ext=jpg&ga=GA1.1.1755453902.1677832073&semt=ais",
+      "related": ["book6", "book8"]
+    },
+    {
+      "id": 8,
+      "name": "book8",
+      "title": "Pride and Prejudice",
+      "price": 16.99,
+      "categories": "Romance",
+      "images": "https://img.freepik.com/free-photo/realistic-books-shelf-library_23-2151359528.jpg?size=626&ext=jpg&ga=GA1.1.1755453902.1677832073&semt=ais",
+      "related": ["book7", "book9"]
+    },
+    {
+      "id": 9,
+      "name": "book9",
+      "title": "1984",
+      "price": 0,
+      "categories": "Dystopian",
+      "images": "https://img.freepik.com/free-photo/old-books-arranged-shelf_53876-147882.jpg?size=626&ext=jpg&ga=GA1.1.1755453902.1677832073&semt=ais",
+      "related": ["book6", "book8"]
+    },
+    {
+      "id": 10,
+      "name": "book10",
+      "title": "The Great Gatsby",
+      "price": 22.99,
+      "categories":"Tragedy",
+      "images": "https://img.freepik.com/free-photo/old-books-arranged-shelf_53876-147882.jpg?size=626&ext=jpg&ga=GA1.1.1755453902.1677832073&semt=ais",
+      "related": ["book9"]
+    },
+    {
+      "id": 11,
+      "name": "book10",
+      "title": "The Great Gatsby",
+      "price": 0,
+      "categories":"Tragedy",
+      "images": "https://img.freepik.com/free-photo/old-books-arranged-shelf_53876-147882.jpg?size=626&ext=jpg&ga=GA1.1.1755453902.1677832073&semt=ais",
+      "related": ["book9"]
+    },
+    {
+      "id": 12,
+      "name": "book10",
+      "title": "The Great Gatsby",
+      "price": 0,
+      "categories":"Tragedy",
+      "images": "https://img.freepik.com/free-photo/old-books-arranged-shelf_53876-147882.jpg?size=626&ext=jpg&ga=GA1.1.1755453902.1677832073&semt=ais",
+      "related": ["book9"]
+    }
+  ]
+  
